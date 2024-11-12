@@ -1,10 +1,10 @@
-package com.pof.app;
+package com.dds.poc_auth0_spring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PofAppApplicationTests {
+class PocAuth0SpringApplicationTests {
 
 	@Test
 	void contextLoads() {
